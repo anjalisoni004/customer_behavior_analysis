@@ -51,7 +51,7 @@ The interactive dashboard highlights:
 
 **Dashboard Preview**
 
-![Customer Shopping Behavior Dashboard](https://github.com/user-attachments/assets/1cf2ec01-f498-4fb1-affa-93d661a1092e)
+![Customer Shopping Behavior Dashboard](dashboard_image.png)
 
 
 ## 💡 Key Insights & Recommendations
